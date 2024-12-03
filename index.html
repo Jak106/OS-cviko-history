@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Command Viewer</title>
+    <style>
+        body {
+            display: flex;
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+        }
+        #command-list-container {
+            width: 30%;
+            height: 100vh;
+            overflow-y: scroll;
+            border-right: 1px solid #333;
+            background-color: #1e1e1e;
+            position: relative;
+        }
+        #filter-button {
+            position: sticky;
+            top: 0;
+            background-color: #000;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            cursor: pointer;
+            border: none;
+            width: 100%;
+        }
+        #command-list {
+            padding: 20px;
+        }
+        #command-details {
+            width: 70%;
+            padding: 20px;
+            background-color: #1e1e1e;
+        }
+        .command-item {
+            cursor: pointer;
+            padding: 10px;
+            margin-bottom: 5px;
+            border-radius: 5px;
+            border: 1px solid #333;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .command-item:hover {
+            background-color: #333;
+            transform: scale(1.02);
+        }
+        .known-command {
+            background-color: #4CAF50; /* Green background for known commands */
+        }
+        .option-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #333;
+            border-radius: 5px;
+            background-color: #2a2a2a;
+            font-size: 1.2em;
+            line-height: 1.6em;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="command-list-container">
+        <button id="filter-button">Show All</button>
+        <div id="command-list"></div>
+    </div>
+    <div id="command-details">
+        <h2>Command Details</h2>
+        <div id="details-content"></div>
+    </div>
+
+    <script>
+        let filterState = 'all'; // 'all', 'known', 'unknown'
+
+        async function fetchCommands() {
+            const response = await fetch('commands.json');
+            const commands = await response.json();
+            return commands;
+        }
+
+        async function fetchTldrCommands() {
+            const response = await fetch('https://tldr.sh/assets/index.json');
+            const tldrCommands = await response.json();
+            return tldrCommands.commands; // Ensure we return the commands array
+        }
+
+        function isCommandKnown(command, tldrCommands) {
+            return tldrCommands.some(tldrCommand => tldrCommand.name === command);
+        }
+
+        function displayCommandDetails(command, options) {
+            const detailsContent = document.getElementById('details-content');
+            detailsContent.innerHTML = '';
+            options.forEach(option => {
+                const optionItem = document.createElement('div');
+                optionItem.className = 'option-item';
+                optionItem.innerHTML = `<strong>Option:</strong> ${option[0]}<br><strong>Description:</strong> ${option[1]}<br><strong>From file:</strong> ${option[2]}<br>`;
+                detailsContent.appendChild(optionItem);
+            });
+        }
+
+        function updateCommandList(commands, tldrCommands) {
+            const commandList = document.getElementById('command-list');
+            commandList.innerHTML = '';
+
+            const sortedCommands = Object.keys(commands).sort();
+            for (const command of sortedCommands) {
+                const commandItem = document.createElement('div');
+                commandItem.className = 'command-item';
+                commandItem.textContent = command;
+
+                const isKnownCommand = isCommandKnown(command, tldrCommands);
+                if (isKnownCommand) {
+                    commandItem.classList.add('known-command');
+                }
+
+                if (filterState === 'known' && !isKnownCommand) continue;
+                if (filterState === 'unknown' && isKnownCommand) continue;
+
+                commandItem.onclick = () => displayCommandDetails(command, commands[command]);
+                commandList.appendChild(commandItem);
+            }
+        }
+
+        function toggleFilter() {
+            const filterButton = document.getElementById('filter-button');
+            if (filterState === 'all') {
+                filterState = 'known';
+                filterButton.style.backgroundColor = '#4CAF50';
+                filterButton.textContent = 'Show Known';
+            } else if (filterState === 'known') {
+                filterState = 'unknown';
+                filterButton.style.backgroundColor = '#fff';
+                filterButton.style.color = '#000';
+                filterButton.textContent = 'Show Unknown';
+            } else {
+                filterState = 'all';
+                filterButton.style.backgroundColor = '#000';
+                filterButton.style.color = '#fff';
+                filterButton.textContent = 'Show All';
+            }
+            initialize(); // Reinitialize to apply the filter
+        }
+
+        async function initialize() {
+            const commands = await fetchCommands();
+            const tldrCommands = await fetchTldrCommands();
+            updateCommandList(commands, tldrCommands);
+        }
+
+        document.getElementById('filter-button').addEventListener('click', toggleFilter);
+
+        initialize();
+    </script>
+</body>
+</html>

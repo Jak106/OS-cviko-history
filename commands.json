@@ -1,0 +1,6704 @@
+{
+    "cat": [
+        [
+            "4.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "5.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "6.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "7.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "8.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "qwert | grep c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "qwert | grep c | head",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "qwert | grep c | tail",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "qwert .bashrc | grep c | tail",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "qwert .bashrc | grep c | head",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "<< MY_TAG > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/dev/null",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "./9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "./9-2.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/logformat.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/priklady/awk.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/zaciatocnik.txt",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "help": [
+        [
+            "for",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "if",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "exit",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "set",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "shift",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "case",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "export",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "unset",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "alias",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "trap",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "wait",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "source",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "exec",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "set",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "help",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "cd",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "for",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "for ((",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "for((",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"for ((\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"for\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "while",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "test",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "echo": [
+        [
+            "\"$@\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$0",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$#",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$zoznam",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$zoznam\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[2]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[6]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[5]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${#zoznam[5]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${#zoznam[2]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${#zoznam[@]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[@]:2:4}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[@]:2:5}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[@]:2:10}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[@]:2:3}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[@]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam1[@]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${#zoznam1[@]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(dirname $cesta)",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(basename $cesta)",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(dirname $(dirname $cesta))",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(basename $(dirname $cesta))",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(basename \"$cesta\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(dirname $(dirname \"$cesta\"))",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(dirname \"$(dirname \"$cesta\")\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$(dirname \"$(dirname \"$cesta\")\")\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$IFS\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$@",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "[A-Z]*",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[22]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[@]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[@]:22:4}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${#zoznam[22]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${zoznam[$]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${#zoznam[6]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${#zoznam[6]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[6]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[-1]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[-2]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[100000000000000000]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[s]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"${zoznam[r]}\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "${#zoznam2[@]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$(dirname \"$cesta\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$(dirname \"$cesta\")\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$(basename \"$cesta\")\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "$PATH",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "\"$(find /public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\) -print)\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "\"$PATH| grep c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "\"$PATH\" | grep c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "*",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ".*",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ".b*",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ".* | *",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "l*",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "{*,.*}",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "{{q*,b*},.*}",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "{q*,b*,.*}",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "ahoj > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-n ahoj > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-n ahoj",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "<<< \"$PATH\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "\"$PATH\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "{{*q,*a},.*}",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "{{q*,a*},.*}",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "{q*,a*,.*}",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "\"PID: $$\"",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "$?",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "\"service ssh restart\"",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "'s/hello/world/g' > mojscript.sed",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "\"${zoznam2[@]}\"",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "\"${#zoznam2[@]}\"",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "*",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "$ahoj",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"$ahoj\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet $veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "3 ahoj           svet",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet \"$veta\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet '$veta'",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet \"'$veta'\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet '\"$veta\"'",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet ''$veta''",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet \"\"$veta\"\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet \"'\"$veta\"'\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet     $veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$pocet\"     \"$veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"$pocet     $veta\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "'$pocet    $veta'",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "$(echo '$pocet    $veta')",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"$(echo '$pocet    $veta')\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\\$pocet    \\$veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"$pocet    $veta\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"'$pocet    $veta'\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "'\"$pocet    $veta\"'",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "''$pocet    $veta''",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\"$pocet    $veta\"\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"'\"$pocet    $veta\"'\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"$pocet    $veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "'$pocet    $veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "vim": [
+        [
+            "4.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "../4.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "5.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "nekoncim.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "losovac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            ".vimrc",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "vyberac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "asdf",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "cv8/s.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "1.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "2.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "3.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "4.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "5.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "6.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "7.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "s.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "cow.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "../script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "chmod": [
+        [
+            "+x 4.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "+x 5.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "+x 8.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "000 asdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "000 abcd",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "+x nekoncim.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "+x losovac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "+x vyberac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "+x 9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "+x 9-2.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-x 9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "+x script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "+x x.bc",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "./4.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a b",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a BB",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a b c d e A B C D E",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a b c d e A B C D E F G H I J K L M",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "mkdir": [
+        [
+            "tmp",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abcd",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "cv8",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "cv6",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "cv8",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "cv9",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "cv7",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "bash",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "cd": [
+        [
+            "tmp",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "..",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "/",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "/home/vojtko/bash/5.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "bash",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "tmp/",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "/public/",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "/public/",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/usr/bin/",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "cv8",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "bash/",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "..",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "cv6/",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "bash",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "../cv6/",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "..",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "~",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "/public/",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "cv8/",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "../cv9",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "cv7",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "../cv8",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "cv7",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "..",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "cv7/",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "bash",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "touch": [
+        [
+            "Ahoj",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "bbbb",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "BUUU",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "Ah",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "AHHHSA",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "AH",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "ah",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "AAAA",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "asdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ".vimrc",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            ".hushlogin",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "asdf",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "ls": [
+        [
+            "-la",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-l",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-l | head -3",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$(find /public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\) -print)\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "$(find /public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\) -print)",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la $(find /public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\) -print)",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la asdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la /var/log/journal/",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-a",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la | grep \"c\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la .; ls -la ..",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la $(find /public/ucebnove/ -type f)",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la /dev/null",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la abcd",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            ".",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-la ./9sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-la ./9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-a",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-a -l",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-al",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la .",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la ..",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /sbin",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /sbin/",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /public/",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /public/prednasky/",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /dev",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la /home",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-la script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "| wc -l",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "| tr -s -d \" \"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "| tr -d \" \" -s",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "| tr -s \" \"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "| less",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "../4.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "man": [
+        [
+            "mv",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "exit",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dirname",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "basename",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "tr",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "rm",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "find",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "ls",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "head",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "tail",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "xargs",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "tee",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "last",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "grep",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "glob",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "7 signal",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "trap",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "awk",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "man",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "bash",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "ls",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "touch",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "less",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "more",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "cat",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "date",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "file",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "time",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "7 time",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "hexdump",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "adduser",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "useradd",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "usermod",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "groups",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "passwd",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "vim",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "fork",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "ps",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "atoi",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "sed",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "passwd",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "5 passwd",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "cron",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "/etc/shadow",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "shadow",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "passwd",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "5 passwd",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "bc",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "mv": [
+        [
+            "-i ah bcd",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-i ah AH",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "ah AH",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "ah bla/ah",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "AH bla/ah",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "AH ah",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-i AH ah",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "bash": [
+        [
+            "5.sh",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "./9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "asdf",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "9.sh",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "qwert",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            ".\\qwert s",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "./qwert s",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "cow.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "x.bc",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "3.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "./cow.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "1.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "./5.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-d",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-d abc a d f",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-h",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-j",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba -d abc cba",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba a c",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a c -----aaaaaaa -adsadsadsd",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-----aaaaaaa -adsadsadsd a c",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a b",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "a b c",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba -h",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba -q",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba -d a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba -D a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba ) -D a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba \\) -D a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba \\) \\| -D a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba \\) \\| a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "abc cba \\) \\| a b c d e | less",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "../5.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "/home/vojtko/bash/5.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "~/bash/5.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "alias": [
+        [
+            "petka=\"./5.sh\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "petka": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "ll": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "debug=''": [
+        [
+            "./5.sh abc",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "./5.sh abc cba",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "./5.sh abc cba a v c d",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "./5.sh abc cba a v c d | less",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "./5.sh abc cba \\) \\| a b c d e",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "export": [
+        [
+            "debug=''; ./5.sh abc cba a v c d",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "debug=''",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "veta=ahoj ../script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "veta=ahoj; ../script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "env": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "| IFS",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "| grep IFS",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "set": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "| grep IFS",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-x",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "+x",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "unset": [
+        [
+            "debug",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "ahoj",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "zoznam=(jeden": [
+        [
+            "dva tri styri pat \"sest cele sedem\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dva tri styri pat \"sest cele sedem\" \"\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dva tri styri pat \"sest cele sedem\" \"\\t\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dva tri styri pat \"sest cele sedem\" \"$'\\t'\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dva tri styri pat \"sest cele sedem\" $'\\t')",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dva tri styri pat \"sest cele sedem\" $'\\t'a)",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "dva tri styri pat \"sest sedem\"); zoznam2=(\"${zoznam[@]} osem\");",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "zoznam1=(${zoznam[@]:0:6}": [
+        [
+            "sedem ${zoznam[$((7-${#zoznam[@]}))]})",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "zoznam1=(\"${zoznam[@]:0:6}\"": [
+        [
+            "sedem ${zoznam[$((7-${#zoznam[@]}))]})",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "for": [
+        [
+            "prvok in \"${zoznam[@]}\"; do         echo \"$prvok\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "prvok in ${zoznam[@]}; do         echo \"$prvok\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "prvok in '${zoznam[@]}'; do         echo \"$prvok\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in $(ls -l | head -3); do         echo $f; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in \"$(ls -l | head -3)\"; do         echo $f; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in \"$(ls -l | head -3)\"; do         echo \"riadok - $f\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in $(ls -l | head -3); do         echo \"riadok $f\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f; do # in [A-Z]*; do",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in [A-Z]*; do          echo \"$f\" | tr 'A-Z' 'a-z';          #mv -i \"$f\" \"$(echo \"$f\" | tr A-Z a-z)\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in [A-Z]*; do          echo \"$f\" | tr 'A-Z' 'a-z';          mv -i \"$f\" \"$(echo \"$f\" | tr A-Z a-z)\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in \"$(ls -l | head -3)\"; do         echo \"riadok $f\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "f in '$(ls -l | head -3)'; do         echo \"riadok $f\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "i in \"${zoznam2[@]}\"; do echo $i; done",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do         echo -n $d;         ls $d | wc -l; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do         echo -n \"$d \";         ls $d | wc -l; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "(( i=0 ; i<5 ; i++ )); do     echo \"opakovanie $i\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "(( i=\"ahoj\" ; i<5 ; i++ )); do     echo \"opakovanie $i\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in $(find . -name *.sh -type f); do echo \"$file\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in $(find . -type f -name *.sh); do echo \"$file\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in $(find . -type f -name \"*.sh\"); do echo \"$file\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in $(find . -type f -name \"*.sh\"); do echo -n \"$file \"; wc -l $file;  done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in $(find . -type f -name \"*.sh\"); do echo -n \"$file \"; cat $file | wc -l;  done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in $(find . -type f -name \"*.sh\"); do echo -n \"$file \"; wc -l < $file;  done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "file in `find . -type f -name \"*.sh\"`; do echo -n \"$file \"; wc -l < $file;  done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do         echo -n $d;         ls $d | wc -l; echo \"\" done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do         echo -n $d;         ls $d | wc -l; echo \"\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do         echo -n \"$d $(ls $d | wc -l)\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do       echo -n \"$d $(ls $d | wc -l)\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "d in /public/prednasky /public/ucebnove /public/priklady; do       echo \"$d $(ls $d | wc -l)\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "( i=0 ; i<5 ; i++ ); do     echo \"opakovanie $i\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "(( i=0; i<5; i++ )); do     echo \"opakovanie $i\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "((i=0; i<5; i++)); do     echo \"opakovanie $i\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "((i=\"asdf\"; i<5; i++)); do     echo \"opakovanie $i\"; done",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "cesta=/public/ucebnove/seminar_1/vim.txt": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "cesta=\"/public/ucebnove/seminar": [
+        [
+            "_1/vim.txt\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "      _1/vim.txt\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "./8.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "hexdump": [
+        [
+            "<<< \"$IFS\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "-h \"$IFS\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "\"$IFS\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "/dev/urandom",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "-C /dev/urandom",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "IFS_TMP=\"$IFS\"": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "IFS='": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "IFS=\"$IFS_TMP\"": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "|": [
+        [
+            "tr 'A-Z' 'a-z';          mv -i \"$f\" \"$(echo \"$f\" | tr A-Z a-z)\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "tr 'A-Z' 'a-z';          mv -i \"$f\" \"$(echo \"$f\" | tr A-Z a-z)\"; done",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "rm": [
+        [
+            "AAAA",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "*.exe",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "~/5.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "../home/vojtko/bash/5.sh": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "zoznam=([0]=\"jeden\"": [
+        [
+            "[2]=\"dva\" [1]=\"tri\" [3]=\"styri\" [4]=\"pat\" [5]=\"sest cele sedem\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "index=2;": [
+        [
+            "echo ${zoznam[$index]}",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "zoznam=(${zoznam[@]:0:2}": [
+        [
+            "changed ${zoznam[@]:3:22})",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "zoznam=(\"${zoznam[@]:0:2}\"": [
+        [
+            "changed \"${zoznam[@]:3:22}\")",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "zoznam2=(${zoznam[@]}": [
+        [
+            "osem)",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "zoznam2=(\"${zoznam[@]}\"": [
+        [
+            "osem)",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ]
+    ],
+    "history": [
+        [
+            "",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "| grep \"4.sh\"",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "| sudo tee /public/ucebnove/historia/vojtko16102024.history",
+            "No description",
+            "vojtko16102024.history",
+            null
+        ],
+        [
+            "> ~/asdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "> ~/asdf/foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "> ~/abcd/foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "| sudo tee ~/abcd/foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "| sudo tee ~/abcd/foo > > /dev/null",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "| sudo tee ~/abcd/foo > /dev/null",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "> h",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "> /tmp/hist",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "> /tmp/hist",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "> /public/ucebnove/historia/vojtko18092024.history",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "| sudo tee /public/ucebnove/historia/vojtko18092024.history",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "> /tmp/hist",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "> ../h",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "find": [
+        [
+            "/public -type f",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -mtime +30 -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -mtime -30 -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -type f \\( -size +20c -and -size -50c \\) -or -size +100c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -type f \\( -size +20c -and -size -50c \\) -or -size +100c -exec -ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -type f \\( -size +20c -and -size -50c \\) -or -size +100c -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\) -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\)",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public \\( -type f \\( -size +20c -and -size -50c \\) -or -size +100c \\) -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -mtime -10 -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -ctime -10 -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -atime -10 -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public \\( -type f -atime -10 \\) -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ".",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". > asdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/prednasky/ > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". >> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/prednasky/ >> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 1> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 2> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". >&2 2> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 2> qwert >&2",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 2> qwert 1>&2",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep c | sed 's/\\.//g'",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep c | sed 's/\\.//g' | sort",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep c | sed 's/\\.//g' | sort | wc -l",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". |& grep c | sed 's/\\.//g' | sort | wc -l",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 2> asdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 2> /dev/null",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". > qwert\\",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/var/log -type f",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -name *.pdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public \\( -type f \\( \\( -size +20c -and -size -50c \\) -or -size +1000c \\) \\)",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -type f -and \\( \\( -size +20c -and -size -50c \\) -or -size +1000c \\)",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -type f -and \\( \\( -size +20c -and -size -50c \\) -or -size +1000c \\) -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public -type f -or -type d -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -or -type d -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ \\( -type f -or -type d \\) -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -or -type d",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -or -type d -prit",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -print -or -type d -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -print",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -print | ls -la",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/ -type f -exec ls -la {} \\;",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". >>> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 0> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". > qwert 2> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 2> qwert > qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". 1>&2 2> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". > qwert 2>&1",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public |& grep c | sed 's/\\.//g' | sort | head",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public |& grep c | sed 's/\\.//g' | sort | tail",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". > /dev/null",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | sudo tee abcd/bar",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep \"(c|h|a)\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep -E \"(c|h|a)\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            ". | grep -E \"[cha]\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ -name *.pdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "less": [
+        [
+            "qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "< qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "ff",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/var/log/apt/history.log",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/seminare/regular-expressions.pdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "--file /public/seminare/regular-expressions.pdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "/public/ucebnove/os1-4.pdf",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "--file",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "<< AHOJ",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "abcd/bar",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "nekoncim.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "losovac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "vyberac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "./vyberac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "/public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/logformat.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "asdf",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            ".bash_history",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "/public/prednasky/",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "/public/zaciatocnik.txt",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "cv8/s.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "s.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "Makefile",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "qwert",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "/public/samples/list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "/public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "cow.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "z",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "x.bc",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "1.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "2.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "3.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "~/.profile",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "~/.bashrc",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "bash/2.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "bash/3.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "/etc/shadow",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "/etc/passwd",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "y.sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "grep": [
+        [
+            "c < qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c < qwert > foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c << MY_TAG",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "<< AHOJ",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c << AHOJ",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c << AHOJ > foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c <<< \"$PATH\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c < qwert | tee foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "\"c\"",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c 0> qwert",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "\"asdf\"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "iPhone /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "android /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "Android /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-i Android /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "\"system\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-w \"system\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<system\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<system\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s.*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[^ ]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[A-Za-z]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[a-zA-Z]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[^a-zA-Z]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[a-Z]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[A-z]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[0-9a-zA-Z]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[[:alnum:]]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[^[:space:]]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[^[:space:]]{5}\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[^[:space:]]\\{5\\}\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E \"\\<s[^[:space:]]{5}\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E \"\\<s[^[:space:]]?\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E \"\\<subor\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E \"\\<(subor|system)\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E -e \"\\<subor\\> -e \"\\<system\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E -e \"\\<subor\\>\" -e \"\\<system\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-r \"grep\" /public/ucebnove/historia/",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-r \"grep\" /public/ucebnove/historia/ | wc -l",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"subor\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-w \"subor\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-w \"subor je\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<subor je\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<subor je\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<subor \" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<subor\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s*\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s[a-zA-Z0-9]*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-E \"\\<s.*\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-P \"\\<s.*?\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-P \"\\<s.*\\?\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-P \"<s.*\\?>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-P \"<s.*?>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"<s.?>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s.?\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<s.\\?\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "\"\\<\\(subor\\|system\\)\\>\" /public/zaciatocnik.txt",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-r \"grep\" /public/ucebnove/historia",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "-r \"find\" /public/ucebnove/historia",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "my": [
+        [
+            "super text is c",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "text",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "but": [
+        [
+            "sometimes d",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "or": [
+        [
+            "c d",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "MY_TAG": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "ssssdgccfr": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "c": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "dd": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "AHOJ": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "ccc": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "m": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "tail": [
+        [
+            "-f /var/log/apt/history.log",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "sudo": [
+        [
+            "history > ~/abcd/foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "less ~/abcd/foo",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "ls -la abcd",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "find . > abcd/bar",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "less abcd/bar",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "apt install psutils",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "apt update",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "adduser jozko",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "usermod -aG sudo jozko",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "vim /etc/ssh/sshd_config",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "apt install strace",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "apt install fortune",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "apt install cowsay",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "apt install bc",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "less /etc/shadow",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "*": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "l*": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-la",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "-i",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "which": [
+        [
+            "ls",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "sh",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "python",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "python3",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "exit": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "PATH=\".:$PATH\"": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "./ls": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "/usr/bin/ls": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "PATH=\"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin\"": [
+        [
+            "",
+            "No description",
+            "vojtko02102024.history",
+            null
+        ]
+    ],
+    "trap": [
+        [
+            "-l",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "cp": [
+        [
+            "-r /public/priklady/signaly/*",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-r /public/priklady/signaly/* .",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "/public/priklady/awk.txt .",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/zamestnanci.txt .",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "/public/samples/sedinput.txt .",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "/public/samples/list.txt .",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "/public/priklady/*.sh .",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "/public/priklady/z .",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "/public/priklady/x.bc .",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "./nekoncim.sh": [
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "fg": [
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "jobs": [
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "bg": [
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "./losovac.sh": [
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "&",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "ps": [
+        [
+            "aux",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "aux | grep \"sleep infinity\"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "aux | grep \"sleep infinity$\"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "aux | grep \"sleep infinity$\" | tr -s \" \"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "aux | grep \"sleep infinity$\" | tr -s \" \" | cut -d \" \" -f2",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "aux | grep \"losovac.sh$\"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "aux | grep -bash",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "aux | grep -- \"-bash\"",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "elf",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "aux",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "elF",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "eLf",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-eLf",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "kill": [
+        [
+            "-10 33725",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-10 33734",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "$(ps aux | grep \"sleep infinity$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "33804",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 33804",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "$(ps aux | grep \"vyberac.sh$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "$(ps aux | grep \"losovac.sh$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 $(ps aux | grep \"losovac.sh$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 $(ps aux | grep \"vyberac.sh$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-2 35433",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 $(ps aux | grep \"nekoncim.sh$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-15 35599",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 35615",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 $(ps aux | grep \"sleep infinity$\" | tr -s \" \" | cut -d \" \" -f2)",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-10 35967",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-15 35967",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-10 35993",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "2",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "&2",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-9 35993",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ],
+        [
+            "-15 36438",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 36445",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 36107 36211 36238",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 104554{4,5,6,7}",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 10455{4,5,6,7}",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 1045[89][8901]",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 10458{8,9}",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "-15 10459{0,1}",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./vyberac.sh": [
+        [
+            "",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "killall": [
+        [
+            "\"sleep infinity\"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "killall5": [
+        [
+            "\"sleep infinity\"",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "shellcheck": [
+        [
+            "./vyberac.sh",
+            "No description",
+            "vojtko06112024.history",
+            null
+        ]
+    ],
+    "source": [
+        [
+            "asdf",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ]
+    ],
+    ".": [
+        [
+            "asdf",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ]
+    ],
+    "./9.sh": [
+        [
+            "",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ]
+    ],
+    "./9-2.sh": [
+        [
+            "",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "\"piaty raz\"",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ]
+    ],
+    "awk": [
+        [
+            "",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "''",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR,$0}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR OFS $0}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR $0}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print \"NR $0\"}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR\" \"$0}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR asdf $0}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR\" asdf \"$0}' /public/samples/zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'BEGIN { print \"zoznam zamestnancov:\"} { print } ' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'END { print \"zoznam zamestnancov:\"} { print } ' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'BEGIN { print \"zoznam zamestnancov:\"} { print \"zamestnanec: \" $1 }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'!/^z/' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z/ { print $1 \":\" $NF }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z/ { print $1 \":\" $NF \":\" NF }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$NF > 1000 {print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$NF > 10000 {print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'NF > 10000 {print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'NF > 2 {print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{sum+=$NF} END { print \"Priemerny plat = \" sum/NR}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { print $1 \":\" $NF }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=$NF } END {print \"prem : \" sum/poc }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=$NF } END {print \"priem : \" sum/poc }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=$NF } END {print \"priem : \" sum/NR }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=NF } END {print \"priem : \" sum/NR }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=NF } END {print \"priem : \" sum/poc }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=NF } END {print \"priem : \" sum/NF }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { poc+=1; sum+=$NF } END {print \"priem : \" sum/NF }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { print }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "' { sum+=$10 } END { \"size \"sum/2^20\"MB\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "' { sum+=$10 } END { print \"size \"sum/2^20\"MB\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "' { sum+=$10 } END { print \"size \"sum/1000000\"MB\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1}' /public/samples/access.log | sort | uniq -c | sort -nr | head -10 | awk '{ print $2 }'",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print NR }'",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print NR }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print zar zar/NR*100\"%\" }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print zar zar/NR\"%\" }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print zar\"%\" }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print zar/NR\"%\" }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print zar/NR*100\"%\" }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} END {print zar/NR*100\"% \"data/NR*100\"%\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ {zar+=1;data+=$10} {allData+=$10} END {print zar/NR*100\"% \"data/allData*100\"%\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15=android || $15=iPhone {zar+=1;data+=$10} {allData+=$10} END {print zar/NR*100\"% \"data/allData*100\"%\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15==android || $15==iPhone {zar+=1;data+=$10} {allData+=$10} END {print zar/NR*100\"% \"data/allData*100\"%\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15==Android || $15==iPhone {zar+=1;data+=$10} {allData+=$10} END {print zar/NR*100\"% \"data/allData*100\"%\"}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR OFS $0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NROFS $0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR\" \"$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR \" \" $0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'BEGIN { print \"zoznam zamestnancov:\"} { print } END { print asdf }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'BEGIN { print \"zoznam zamestnancov:\"} { print } END { print \"asdf\" }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z/' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'!/^z|^b/' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'!/^[zb]/' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^[zb]/' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z/ { print $1 \":\" $NF \":\" NF \":\" NR }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z/ { print $1 \":\" $NF \":\" NF \":\" NR \":\" $NR }' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$NF == 13000 {print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$NF == 13000 || $NF == 23000 {print NR,$0}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{sum+=$NF; print NR} END { print \"Priemerny plat = \" sum/NR}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{sum+=$NF; print NR} END { print \"Priemerny plat = \" NR sum/NR}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{sum+=$NF; print NR} END { print \"Priemerny plat = \" NR ,sum/NR}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{print NR} END { print \"Priemerny plat = \" NR ,sum/NR}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'END { print \"Priemerny plat = \" NR ,sum/NR}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/^z|^b/ { sum+=$NF; poc+=1 } END {print \"priem: \" sum/poc}' zamestnanci.txt",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ sum+=$10 } END { print sum/2^20}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ sum+=$10 } END { print sum/1000000}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log |",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -r",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -n |",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -n",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -n | tail -10",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -n | tail -10 | sort -r",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -n | tail -10 | sort -r | awk '{print $2}'",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -n | tail | sort -r | awk '{print $2}'",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ print $1 }' /public/samples/access.log | sort | uniq -c | sort -nr | head | awk '{print $2}'",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/Android|iPhone/ { print }' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/Android|iPhone/ { sum+=1; data+=$10 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \"podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/Android|iPhone/ { sum+=1; data+=$10 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'/android|iPhone/ { sum+=1; data+=$10 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15==Android || $15==iPhone { sum+=1; data+=$10 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15==Android || $15==iPhone { sum+=1; data+=$10; print $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15==Android { sum+=1; data+=$10; print $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15==Android { sum+=1; data+=$10; print \"a \" $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15 == Android { sum+=1; data+=$10; print \"a \" $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ sum+=1; data+=$10; print \"a \" $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ sum+=1; data+=$10; print \"a \" $14 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'{ sum+=1; data+=$10; print \"a \" $13 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "' { sum+=1; data+=$10; print \"a \" $14 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$14 == NT { sum+=1; data+=$10; print \"a \" $14 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$14 == \"NT\" { sum+=1; data+=$10; print \"a \" $14 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$14 == \"iPhone\" { sum+=1; data+=$10; print \"a \" $14 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15 == \"iPhone\" { sum+=1; data+=$10; print \"a \" $14 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15 == \"iPhone\" { sum+=1; data+=$10; print \"a \" $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "'$15 == \"iPhone\" || $15 == \"Android\" { sum+=1; data+=$10; print \"a \" $15 } {dataA+=$10} END { print \"podiel1 \" sum/NR*100 \" podiel2 \" data/dataA*100}' /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ]
+    ],
+    "cut": [
+        [
+            "-d \" \" -f1 /public/samples/access.log",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq | sort -nr",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head 10",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head -10",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head -10 | tr -s \"\"",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head -10 | tr -s \"\" | cut -d \" \" -f2",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head -10 | tr -s \"\" | cut -d \" \" -f1",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head -10 | awk { print $2 }",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ],
+        [
+            "-d \" \" -f1 /public/samples/access.log | sort | uniq -c | sort -nr | head -10 | awk '{ print $2 }'",
+            "No description",
+            "vojtko23102024.history",
+            null
+        ]
+    ],
+    "pwd": [
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "date": [
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "file": [
+        [
+            "hid",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "time": [
+        [
+            "",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "adduser": [
+        [
+            "jozko",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "groups": [
+        [
+            "jozko",
+            "No description",
+            "vojtko18092024.history",
+            null
+        ]
+    ],
+    "htop": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "top": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "gcc": [
+        [
+            "s.c",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./3.exe": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "4",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "jj",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "4 ggggg",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "5",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "3 fdgdgdfgdf",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./a.out": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "make": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./1.exe": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "fgfdgdf",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "ggggg",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./2.c": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./2.exe": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "ffff",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "asdf",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./4.exe": [
+        [
+            "4",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "10",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "100",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "200",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "5",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./5.exe": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "100",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "10",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ],
+        [
+            "5",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "./7.exe": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    ":": [
+        [
+            "",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "strace": [
+        [
+            "./7.exe",
+            "No description",
+            "vojtko13112024.history",
+            null
+        ]
+    ],
+    "sed": [
+        [
+            "",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n 'p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '1p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '6p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'=' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=;p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i vkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i \"vkladam pred riadok\"' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\"vkladam pred riadok\"' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'ivkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'ivkladam    pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i       vkladam    pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\"       vkladam    pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\       vkladam    pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'a vkladam za riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam za treti riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3c vkladam namiesto tretieho riadka' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3c\\ vkladam namiesto tretieho riadka' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3c\\ vkladam namiesto \\tretieho riadka' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3c\\ vkladam namiesto \\\\tretieho riadka' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3c\\\\ vkladam namiesto \\\\tretieho riadka' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3c\\\\\\ vkladam namiesto \\\\tretieho riadka' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3d' sedinput.txt ;# vymazem treti riadok",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam namiesto tretieho riadka;3a asdf' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam namiesto tretieho riadka; 3a asdf' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam namiesto tretieho riadka' -e '3a asdf' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam namiesto tretieho riadka;a asdf' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam namiesto tretieho riadka\\;a asdf' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3a vkladam namiesto tretieho riadka\\n asdf' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/hello/world/' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/hello/world/g' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-f mojscript.sed sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'7,10d' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'7d;8d;9d;10d' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3 s/Zuzka/Lucka/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka, ja Ta milujem./Lucka, ja Ta milujem./g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka/Lucka/2' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka, ja Ta milujem./Lucka, ja Ta milujem./g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka(, ja Ta milujem.)/Lucka\\1/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka\\1/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka\\0/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka/ZUZKA/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka/\\U/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka/\\U\\0/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka/\\U&/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\<z[^ ]*/\\U&/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\<\\([A-Z]\\)\\([^ ]*\\)/\\L\\1\\U\\2/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\bmozno\\b/nemozno/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\b\\(mozno\\)\\b/\\1/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\b\\(mozno\\)\\b/ne1/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\b\\(mozno\\)\\b/ne\\1/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7~2' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7~2p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'1,7d;18d;1~2d' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,18p' list.txt | sed -n '1~2p'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '8,16p' list.txt | sed -n '1~2p'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n 'n;7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '3n;7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n 'n;n;7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n 'n;n;7,16p;n' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=;7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=;7,16p' list.txt | sed 'N;s/\\n/ /g'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=;7,16p' list.txt | sed 'N;s/\\n/ /g' | sed -n '4,12p'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "''",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'' /public/samples/sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'5~10' /public/samples/list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '5~10p' /public/samples/list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "ledinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "5edinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '3p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=;3p' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\ vkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\ pvkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'pvkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'dvkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\vkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\\\vkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\\\\\vkladam pred riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\\\\\vkladam pred \\\\riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\\\\\vkladam pred \\\\\\riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\\\\\vkladam pred \\riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'i\\vkladam pred \\\\\\riadok' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-e '3a vkladam za treti riadok' -e '3a aaaa' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-e '3a vkladam za treti riadok\\nasdf' -e '3a aaaa' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-e '3a vkladam za treti riadok\\nasdf;3a aaaa' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3d' sedinput.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'7d,8d,9d,10d' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,10!p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '1,6p;11,$p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka/Lucka/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3/Zuzka/Lucka/2' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka/Lucka/2' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka, ja Ta milujem./Lucka, ja Ta milujem./' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka\\1/2' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka\\0/2' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka\\0/' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka\\1/' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta \\(milujem.\\)\\)/Lucka\\1/' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta \\(milujem.\\)\\)/Lucka\\1\\2/' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'3s/Zuzka\\(, ja Ta milujem.\\)/Lucka&/' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/Zuzka/ZUZKA/' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\<\\([A-Z]\\)\\([a-zA-Z]*\\)/\\L\\1\\U\\2/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'s/\\<mozno\\>/nemozno/g' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "'n;7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16p;n' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16p;n;n' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n 'n;7,16p;n;n' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16p' list.txt | sed -n '2~2p'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16p' list.txt | sed -n '1~2p'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16p' -e '1~2p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n -e '7,16p' -e '1~2p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n -e '1,6d' -e '1~2p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n -e '1,6d' -e '17,$d' -e '1~2p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n -e '' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-e '' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '=;p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16=;p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16=;7,16p' list.txt",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16=;7,16p' list.txt | sed 'N;s/\\n/ /'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ],
+        [
+            "-n '7,16=;7,16p' list.txt | sed 'N;s/\\n/ /g'",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "info": [
+        [
+            "sed",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "PREMENNA=$(echo": [
+        [
+            "ahoj)",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "`*`": [
+        [
+            "",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "reset": [
+        [
+            "",
+            "No description",
+            "vojtko30102024.history",
+            null
+        ]
+    ],
+    "./script": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "python": [
+        [
+            "-v",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "./cow.sh": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "./x.bc": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "ahoj=asdf;": [
+        [
+            "echo $ahoj",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "ahoj=asdf": [
+        [
+            "echo $ahoj",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "ahoj=\"\"": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "ahoj=": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "veta=ahoj": [
+        [
+            "svet",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "echo $veta",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "../script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "hel": [
+        [
+            "while",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "veta=\"ahoj": [
+        [
+            "svet\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "          svet\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ],
+        [
+            "        svet\"",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "pocet=3": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "ahoj=svet": [
+        [
+            "",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ],
+    "veta=ahoj;": [
+        [
+            "../script",
+            "No description",
+            "vojtko09102024.history",
+            null
+        ]
+    ]
+}
